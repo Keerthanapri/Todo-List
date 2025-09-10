@@ -2,7 +2,7 @@
 
 A lightweight and interactive Todo List web app built with HTML, CSS, and TypeScript.It allows users to add, delete, and mark tasks as completed, with tasks saved in localStorage for persistence.
 
-Features
+Features:
 
 Add new tasks via Add button or Enter key
 
@@ -16,7 +16,7 @@ Clean, Simple UI with animations
 
 Fully typed using TypeScript for safer code
 
-Technologies Used
+Technologies Used:-
 
 TypeScript – Strongly typed JavaScript
 
@@ -24,11 +24,12 @@ HTML5 & CSS3 – Modern and responsive design
 
 LocalStorage – Persist tasks across sessions
 
-Getting Started
+Getting Started:-
 
 1. Clone the Repository
    
 git clone https://github.com/Keerthanapri/Todo-List.git
+
 cd typescript-todo
 
 2. Install TypeScript (if not installed)
@@ -45,24 +46,19 @@ This will generate the app.js file which is linked in index.html.
 
 Simply open index.html in your browser to use the app.
 
-
-Project Structure
+Project Structure:-
 
 todo-list/
 │
-├── index.html      
-# Main HTML file
-├── style.css       
-# CSS styles
-├── app.ts          
-# TypeScript source
-├── app.js          
-# Compiled JavaScript (generated)
-└── README.md       
-# Project documentation
+├── index.html   # Main HTML file
+├── style.css    # CSS styles
+├── app.ts       # TypeScript source
+├── app.js       # Compiled JavaScript (generated)
+└── README.md    # Project documentation
 
 
-Usage
+Usage:
+
 
 Type a task into the input field.
 
@@ -73,6 +69,4 @@ Click on a task to mark it as completed.
 Click the ❌ button to remove a task.
 
 
-License
-
-This project is licensed under the MIT License 
+License:-This project is licensed under the MIT License 
