@@ -50,11 +50,11 @@ Project Structure:-
 
 todo-list/
 │
-├── index.html   # Main HTML file
-├── style.css    # CSS styles
-├── app.ts       # TypeScript source
-├── app.js       # Compiled JavaScript (generated)
-└── README.md    # Project documentation
+├── index.html           # Main HTML file
+├── style.css            # CSS styles
+├── app.ts               # TypeScript source
+├── app.js               # Compiled JavaScript (generated)
+└── README.md            # Project documentation
 
 
 Usage:
@@ -69,4 +69,4 @@ Click on a task to mark it as completed.
 Click the ❌ button to remove a task.
 
 
-License:-This project is licensed under the MIT License 
+License:This project is licensed under the MIT License 
