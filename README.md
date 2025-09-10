@@ -31,11 +31,11 @@ Getting Started
 git clone https://github.com/Keerthanapri/Todo-List.git
 cd typescript-todo
 
-3. Install TypeScript (if not installed)
+2. Install TypeScript (if not installed)
    
 npm install -g typescript
 
-4. Compile TypeScript
+3. Compile TypeScript
    
 tsc app.ts
 
@@ -45,15 +45,22 @@ This will generate the app.js file which is linked in index.html.
 
 Simply open index.html in your browser to use the app.
 
+
 Project Structure
 
 todo-list/
 │
-├── index.html      # Main HTML file
-├── style.css       # CSS styles
-├── app.ts          # TypeScript source
-├── app.js          # Compiled JavaScript (generated)
-└── README.md       # Project documentation
+├── index.html      
+# Main HTML file
+├── style.css       
+# CSS styles
+├── app.ts          
+# TypeScript source
+├── app.js          
+# Compiled JavaScript (generated)
+└── README.md       
+# Project documentation
+
 
 Usage
 
@@ -64,6 +71,7 @@ Press Enter or click Add.
 Click on a task to mark it as completed.
 
 Click the ❌ button to remove a task.
+
 
 License
 
